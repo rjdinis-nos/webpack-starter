@@ -7,3 +7,10 @@ Webpack Starter boilerplate
 * Babel Setup
 * CSS Minify Extract
 * Style Loader
+
+## Build and dev
+```
+npm install
+npm run build
+npm run dev
+```
